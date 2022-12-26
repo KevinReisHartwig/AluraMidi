@@ -26,4 +26,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-É um jogo de ping pong desenvolvido em um curso de lógica.
+É um jogo de sons desenvolvido em um curso de lógica.
